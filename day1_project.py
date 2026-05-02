@@ -1,0 +1,26 @@
+#DAY 1 PROJECT - Personal Introduction Card
+#1st May 2026 - Day 1
+
+print("=" * 45)
+print("      MY PYTYHON JOURNEY - DAY 1")
+print("=" * 45)
+
+name = input("Your name: ")
+age = int(input("Your age"))
+city = input("Your city: ")
+dream = input("Your dream country")
+goal = input("Your dream company:")
+skill = input("What are you learning: ")
+print("\n" + "=" * 45)
+print("      MY INTRODUCTION CARD")
+print("=" * 45)
+print(f" Name       : {name}")
+print(f" age       : {age}")
+print(f" City       : {city}")
+print(f" Dream       : Study in {dream}")
+print(f" Goal       : Work at {goal}" )
+print(f"Learning    : {skill}")
+print(f"Day       : Day 1 of 365")
+print("=" * 45)
+print("  Every expert was once a beginner.")
+print("=" * 45)

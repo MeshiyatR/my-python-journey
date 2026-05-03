@@ -1,12 +1,12 @@
 #DAY 1 EXERCISE - Ist MAY 2026
 #Exercise 1: My First Print
 
-print("My Name is M.Rubab")
+print("My Name is Meshiyat Rubab")
 print("My python jpourney starts today")
 print("My aim is to become an AI engineer")
 
 #Exercise 2: VARIABLES
-name = "M.Rubab"
+name = "Meshiyat Rubab"
 age = 28
 city = "Gilgit Baltistan"
 Goal = "Ai Engineer"

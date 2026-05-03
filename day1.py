@@ -1,6 +1,6 @@
 name = "Meshiyat Rubab"
 age = 28
-city = "Gilgit Baltistan"
+city = "Lahore"
 goal = "Ai Engineer"
 country = "Germany"
 

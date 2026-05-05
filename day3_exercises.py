@@ -13,6 +13,15 @@ print(a // b)       #floor division
 print(a % b)        #remainder
 print(a ** b)       #power
 
+#Exercise 2: COMPARSION OPERATORS 
+x = 10
+y = 20
+print(x == y)     #equal
+print(x != y)     #not equal
+print(x > y)      #greater then
+print(x < y)      #less then
+print(x >= y)     #greater or equal
+print(x <= y)     #less or equal
 
 #Exercise 3: Simple if/else
 age = int(input("Enter your age: "))

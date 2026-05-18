@@ -27,3 +27,4 @@ Goal: Python → AI Engineering → Google
 ### Week 3
 - ✅ Day 15 (May 16) — APIs and Requests Library
 - ✅ Day 16 (May 17) — JSON, Data Handling, Personal Data Manager
+- ✅ Day 17 (May 18) — Pandas, Data Analysis, Student Analyzer

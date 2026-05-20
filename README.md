@@ -29,3 +29,4 @@ Goal: Python → AI Engineering → Google
 - ✅ Day 16 (May 17) — JSON, Data Handling, Personal Data Manager
 - ✅ Day 17 (May 18) — Pandas, Data Analysis, Student Analyzer
 - ✅ Day 18 (May 19) — NumPy, Matplotlib, Progress Dashboard
+- ✅ Day 19 (May 20) — Web Scraping, BeautifulSoup, Book Scraper
